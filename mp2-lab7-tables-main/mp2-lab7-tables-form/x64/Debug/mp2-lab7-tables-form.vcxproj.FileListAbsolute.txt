@@ -1,0 +1,4 @@
+D:\ыыыа\mp2-lab7-tables-main\mp2-lab7-tables-form\x64\Debug\mp2-lab7-tables-form.vcxproj.AssemblyReference.cache
+D:\ыыыа\mp2-lab7-tables-main\mp2-lab7-tables-form\x64\Debug\mp2-lab7-tables-form.vcxproj.SuggestedBindingRedirects.cache
+D:\ыыыа\mp2-lab7-tables-main\mp2-lab7-tables-form\x64\Debug\mp2lab7tablesform.TablesForm.resources
+D:\ыыыа\mp2-lab7-tables-main\mp2-lab7-tables-form\x64\Debug\mp2-lab7-tables-form.vcxproj.GenerateResource.cache
